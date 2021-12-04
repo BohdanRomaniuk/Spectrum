@@ -1,0 +1,6 @@
+[submodule "SpectrumBT/src"]
+	path = SpectrumBT/src
+	url = https://github.com/pschatzmann/ESP32-A2DP
+[submodule "SpectrumBT/ESP32-A2DP"]
+	path = SpectrumBT/ESP32-A2DP
+	url = https://github.com/pschatzmann/ESP32-A2DP
